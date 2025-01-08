@@ -39,8 +39,8 @@
 ### 
 
 
-<h2 align="left">I code with</h2>
-###
+<h2 align="left">Social Links</h2>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/md-abidur-rahman-b1100a267/" target="_blank">
@@ -58,28 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abid45342&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/abid45342/abid45342/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/abid45342/abid45342/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/abid45342/abid45342/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/abid45342/abid45342/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/abid45342/abid45342/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/abid45342/abid45342/output/snake.svg" alt="Snake animation" />
-
-###
